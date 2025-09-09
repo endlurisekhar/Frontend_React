@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Reddy Sekhar",
+      "email": "reddy@example.com",
+      "password": "aaaa"
+    },
+    {
+      "id": "2",
+      "name": "Ananya Sharma",
+      "email": "ananya@example.com",
+      "password": "aaaa"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Kumar",
+      "email": "rahul@example.com",
+      "password": "aaaa"
+    },
+    {
+      "id": "d307",
+      "name": "reddy",
+      "email": "endlurisekhar77@gmail.com",
+      "password": "hhhgfyyuhuh"
+    },
+    {
+      "id": "2339",
+      "name": "reddy",
+      "email": "endlurisekhar77@gmail.com",
+      "password": "hhhgfyyuhuh"
+    },
+    {
+      "id": "f594",
+      "name": "chinni",
+      "email": "reddysekhare45@gmail.com",
+      "password": "iuhuhg7uhu"
+    }
+  ]
+}
