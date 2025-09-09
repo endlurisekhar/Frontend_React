@@ -1,13 +1,12 @@
 import './App.css'
-import LoginForm from './LoginForm'
-import Hoc from './Hoc'
+import UcallBack1 from './UcallBack1'
 
 function App() {
   
   return (
     <>
-     <LoginForm/>
-     <Hoc/>
+     
+    <UcallBack1/>
     </>
   )
 }
