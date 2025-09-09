@@ -1,12 +1,12 @@
 import './App.css'
-import UcallBack1 from './UcallBack1'
+import LoginForm from './LoginForm'
 
 function App() {
   
   return (
     <>
      
-    <UcallBack1/>
+    <LoginForm/>
     </>
   )
 }
